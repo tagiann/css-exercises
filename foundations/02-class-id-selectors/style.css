@@ -1,6 +1,6 @@
 .odd {
     background-color: pink;
-    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #num2 {
@@ -8,7 +8,7 @@
     font-size: 36px;
 }
 
-.odd.cool{
+.cool{
     font-size: 24px;
 }
 
